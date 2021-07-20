@@ -1,9 +1,11 @@
 ---
 marp: true
-theme: gaia
+theme: uncover
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 paginate: true
-class: lead
+size: 16:9
+# class: lead
+footer: '&copy; hcsc 25th'
 ---
 <!--_paginate: false -->
 
